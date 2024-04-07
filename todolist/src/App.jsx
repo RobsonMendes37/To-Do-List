@@ -9,7 +9,7 @@ function App() {
   const [todos , setTodos] = useState([
     {
       id:1,
-      text:'cirar funcinalidade do sitema ',
+      text:'Criar funcinalidade do sistema PGS',
       category: 'trabalho',
       isCompleted:false 
     },
