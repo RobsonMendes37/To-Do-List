@@ -6,6 +6,7 @@
 Esta To-Do-List foi criada em React, após obter inspiração do curso "Faça uma To Do List" do Matheus Battisti. Utilizando os conceitos aprendidos, o projeto visa praticar e solidificar conhecimentos em React, além de oferecer uma ferramenta prática para organizar tarefas do dia a dia.
 
 ![To-Do-List](image.png)
+[Acesse o site aqui!](https://to-do-list-peach-nu.vercel.app/)
 ## Funcionalidades
 
 - Adição de tarefas
